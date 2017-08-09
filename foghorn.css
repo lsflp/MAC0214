@@ -78,10 +78,11 @@ code {
 	background: white;
 	}
 a {
-	color: #2484c1;
-	text-decoration: none;
+	color: #333;
+	text-decoration: underline;
 	}
 a:hover {
+	color: #2484c1;
 	text-decoration: underline;
 	}
 a img {
