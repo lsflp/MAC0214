@@ -1,0 +1,72 @@
+<style>
+ #preview-box {
+     background-color: rgba(1,1,1,0.1);
+     padding: 1px 10px;
+     border-radius: 10px;
+ }
+</style>
+
+<head>
+<link rel="stylesheet" href="../../foghorn.css">
+<title>MAC0214</title>
+</head>
+
+<body>
+
+<center>
+<h2>MAC0214 - Atividade Curricular em Cultura e Extensão</h2>
+<p><a href="../../index.html">Início</a> | <a href="../../estat.html">Estatísticas</a></p>
+</center>
+<hr />
+
+<h3>Ata da 5º Reunião do HackathonUSP</h3>
+<p>11/08/2017 | 12h | 1 hora</p>
+
+<h4>Participantes:</h4>
+<ul>
+	<li>Luís Felipe, Leonardo Lana, Gustavo Silva (IME)</li>
+	<li>Isabela e Camila (NEU)</li>
+</ul>
+
+<h4>Oficinas:</h4>
+<ul>
+	<li>A oficina de HTML foi dada essa semana pelo Lana.</li>
+	<li>O Renato Cordeiro dará a oficina de JavaScript para os participantes.</li>
+</ul>
+
+<li>A divulgação está feita e foi bem abrangente.</li>
+<li>Parece que está tudo pronto para o evento, basta nos organizarmos.</li>
+
+<h4>Dia do Evento:</h4>
+<ul>
+	<li>Havia um problema com o sinal de internet no CCSL, mas isso foi arrumado.</li>
+	<li>No sábado, 19, roteadores serão instalados para garantiz a fluidez da rede.</li>
+	<li>A entrada será controlada com nome e RG, já que alguns mentores e juízes não possuem números USP.</li>
+	<li>Vamos arrumar o CCSL depois da palestra do Ensino Médio.</li>
+	<li>Os itens de Coffee-Break (guardanapo, copos) serão guardados no CCSL.</li>
+	<li>Na madrugada, faremos um revezamento para garantir que sempre tenha alguém da organização no local.</li>
+	<li>A programação está no drive, mas sofrerá algumas alterações.</li>
+	<li>Pegaremos a mesa de Ping Pong com a atlética na quinta ou na sexta-feira.</li>
+	<li>Faremos uma escala para ver quem estará a cada momento no evento.</li>
+	<li>Provavelmente traremos garrafas de café.</li>
+	<li>Temos que verificar extensões de tomadas, sacos de lixo e papel higiênico.</li>
+	<li>O pessoal da Red Bull vai vir à noite mesmo.</li>
+	<li>O último coffee break do sábado virá em torno das 21h, por causa da padaria. Vamos servi-lo às 23h.</li>
+	<li>Os inscritos vão começar a chegar umas 14h, as palestras às 15h, e o primeiro coffee break será as 16h.</li>
+	<li>O <i>coding</i> começa às 17h e a mentoria às 18h.</li>
+	<li>O cronograma para o fim do evento parece bom.</li>
+	<li>O IME Workshop terá uns 15 minutos para falar de si.</li>
+	<li>Vamos mostrar a reportagem dos vencedores do ano passado para motivar os participantes.</li>
+	<li>Vamos mudar a apresentação para 11:30h.</li>
+	<li>As apresentações serão de 3 minutos e não terão slides.</li>
+</ul>
+
+<h4>Inscitos:</h4>
+	<li>Vamos mandar um e-mail para os participantes para ajudar com ideias de temas.</li>
+
+<hr />
+<small>
+<p>Feito com ❤️ por Luís Felipe de Melo.</p>
+<p>CSS original de <a href="https://github.com/jasonm23/markdown-css-themes/blob/gh-pages/foghorn.css">jasonm23</a>.</p>
+</small>
+</body>
