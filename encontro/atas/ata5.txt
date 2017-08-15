@@ -1,0 +1,44 @@
+ATA DA 5ª REUNIÃO - IX Encontro do BCC
+26/05/2017, 12h
+
+- Participantes:
+  - 1º ano: Kobus, Iggor, Ricardo, Vitor SGR
+  - 2º ano: Lana, Bia, Andrei
+  - 3º ano: Ninguém, estavam na prova de análise
+  - 4º+ ano: João
+  - Pós: Renato, Portela e Matt
+
+- Atualizações:
+  - Ofícios
+    Todas as propostas foram entregues, mas não obtiveram respostas.
+    Renato disse que a verba da pós, vinda da CCP, só poderá ser usada para outras coisas.
+
+  - Palestras
+    - Iggor e Bia não tem candidatos para algoritmos de recomendação ainda.
+
+    - João disse que Fritz indicou um palestrante para VR.
+    - João pensou em trazer os Prof. Siang, PF e Prof.ª Edith (da Poli).
+    - Segundo João, Gustavo está com a palestra de cloud.
+
+    - Vitor SGR (e Matt, vagamente) estão procurando professores para falar
+      sobre GeoComp.
+    - Vitor SGR está enviando e-mail para palestra de PLN.
+
+    - Kobus está tendo progresso com a palestra de Processos Estocásticos.
+    - Kobus teve duas indicações para SAT Solvers (Finger e Glauber, com indicação circular). Lana sugeriu que Kobus procurasse a Prof. Renata Wasserman.
+
+    - Andrei está com uma indicação de um professor da UFPE, pelo Prof. Alfredo, e a indicação do Prof. Fábio Kon.
+
+  - Divulgação
+    - Hikaru pediu para alguns amigos para fazer um cartaz para a palestra para vestibulandos.
+    - Victor vai fazer o evento para a palestra dos vestibulandos e, um pouco mais para frente, criaremos um para a IX edição do Encontro.
+
+  - Cartazes
+    - Iggor e Hikaru não conseguiram planejar os cartazes ainda.
+
+  - Comida
+    - João enviou vários e-mails pedindo orçamento para entrega na zona oeste. Ele está esperando os orçamentos.
+
+- [OFF-TOPIC] Nesse momento, acabou a energia do computador do Renato e ele não pode anotar o restante da reunião... (~5 min)
+
+- Próxima reunião: 09/06, 12h, sala a definir (fiquem atentos ao e-mail!)

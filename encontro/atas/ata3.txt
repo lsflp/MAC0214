@@ -1,0 +1,122 @@
+ATA DA 3ª REUNIÃO - IX Encontro do BCC
+20/04/2017, 13h
+
+- Participantes:
+  - 1º ano: Kobus, Hikaru, Ricardo, Iggor, Rezende, Vitor SGR
+  - 2º ano: Lana
+  - 3º ano: Gustavo, Luís
+  - 4º+ ano: João, Lud
+  - Pós: Matt, Portella, Renato
+
+- Esclarecimento:
+  Na ata passada, houve uma confusão sobre quem pertence aos
+  grupos de divulgação e site. Os membros de cada grupo são:
+
+  - Divulgação: Portela, Hikaru, Iggor
+  - Site: Lana, João, Capella, Vitor SRG
+
+- Assuntos:
+  - Horário da reunião:
+    As reuniões serão semanais, às sextas-feiras, de 15 em 15 dias,
+    a partir do dia 04/05, às 12h. A sala será decidida conforme a reunião.
+
+  - Palestras:
+    Foram sugeridos vários temas por um formulário enviado para os alunos
+    do 1º ano. A lista de sugestões foi a seguinte:
+
+    - Teoria dos jogos
+    - IA
+    - Criptografia
+    - Segurança na web
+    - Empreendedorismo
+    - Redes Sociais
+    - Plataformas mobile
+    - Reconhecimento de imagens
+    - Fintech
+    - Edutech
+    - Big Data
+    - Algoritmos de recomendação
+    - Scrum
+    - Escalabilidade no AWS
+    - Programação Funcional
+    - Machine Learning
+    - Processos Estocásticos aplicados na computação
+    - Smart Cities
+    - Trilhas BCC
+    - Processos Linguagem Natural
+    - SAT solvers
+    - Redes Neurais
+    - VR, AR
+    - Grafos
+    - Otimização combinatória
+    - Computação Gráfica
+    - UX
+    - Cotas BCC
+    - Vida depois do BCC
+    - Compiladores
+    - Engenharia de sofware
+    - Computação Musical
+    - Desenvolvimento de Jogos
+
+    Fizemos uma filtragem e reorganização dos temas a partir
+    do conhecimento prévio dos organizadores, de modo a evitar
+    repetições com edições anteriores do Encontro e excluir
+    sugestões muito genéricas: 
+
+    - Temas excluídos:
+      - IA
+      - Scrum
+      - Trilhas BCC
+      - Grafos
+      - Otimização
+      - Compiladores
+      - Teoria dos jogos
+
+    - Temas reorganizados:
+      - Criptografia + segurança web
+      - Scrum + métodos ágeis
+      - Empreendedorismo + Fintech + Edutech
+      - Big Data + Machine Learning + Algoritmos de recomendação
+      - Escalabilidade na Cloud
+      - Vida depois do BCC + mercado de trabalho
+      - AR + Visão
+      - VR + Jogos
+
+    A lista final de palestras com seus respectivos interessados foi a seguinte: 
+
+    - Segurança na web (Hikaru)
+    - Algoritmos de Recomendação (Iggor)
+    - Plataforma mobile ()
+    - Empreendedorismo (Gustavo)
+    - AR + Visão (Rezende)
+    - UX/UI (Gustavo, Lana)
+    - Métodos Ágeis (Lana, Ricardo)
+    - Mulheres da Computação (Lud)
+    - Escalabilidade na cloud (João, Gustavo)
+    - Processos estocásticos aplicados na compucação (Kobus)
+    - Smart cities ()
+    - Processamento de Linguagem Natural (Rezende)
+    - SAT solvers (Kobus)
+    - Geometria computacional (Matt)
+    - Vida depois do BCC + Mercado de Trabalho (Luís)
+    - Computação Musical (Luis, Hikaru)
+    - VR + Jogos (João)
+    - História da Computação (Lud, João)
+
+    Cada palestra deve ter 2 responsáveis, sendo no mínimo 1 membro
+    experiente da organização. No total, ficaram 18 temas para um 
+    máximo de 16 slots de palestra. Essa sobra é intencional e garante
+    que teremos temas para todo o evento.
+
+- Tarefas:
+  Tarefas que devem ser realizadas até a próxima reunião:
+
+  - Luís vai fazer uma planilha para que todos os organizadores
+    marquem em quais palestras querem participar. 
+  - Victor vai ajudar o João com os detalhes sobre a comida
+    (aka repassar os conhecimentos sobre o que fazer).
+  - Capella vai abrir a thread sobre o site orientando Lana
+    e outros sobre como proceder.
+
+- Próxima reunião:
+  05/05, sexta-feira, às 12h, sala a definir (fiquem atentos ao e-mail!)
